@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Mundo Dev",
+      "link": "https://www.alura.com.br",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br"
+      },
+      "videos": [
+        {
+          "titulo": "Dev Soutinho - O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=-nYNd6EuZHU"
+        },
+        {
+          "titulo": "Alura Cursos Online - Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
+          "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU&t=54s"
+        },
+        {
+          "titulo": "Filipe Deschamps - E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
+          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0&t=4s"
+        },
+        {
+          "titulo": "Filipe Deschamps - Lembra Daquela I.A. Que Programava Sozinha? Então...",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+        },
+        {
+          "titulo": "Filipe Deschamps - Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "BrazilJS - Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "BrazilJS - Adeus Fun Fun Function e compatibilidade na Web - Weekly #350",
+          "url": "https://www.youtube.com/watch?v=fBAlRxjezA4"
+        },
+        {
+          "titulo": "Rocketseat - Paginação no Front End com JS puro | Code/Drops #43",
+          "url": "https://www.youtube.com/watch?v=6-VDE3H9-WU"
+        }        
+      ]
+    },
+    {
+      "titulo": "Free Fire",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Youtube Free Fire Brasil",
+        "url": "https://www.youtube.com/channel/UCr4ARxgElIO21GWfIraZezg"
+      },
+      "videos": [
+        {
+          "titulo": "Free Fire Brasil - BLACK DRAGONS SURPREENDE NA FINAL!!!! | Clipadas FINAIS #CopaFF",
+          "url": "https://www.youtube.com/watch?v=nDzJ42_PBUA"
+        },
+        {
+          "titulo": "Free Fire Brasil - MULHERES NO COMPETITIVO DE FREE FIRE | Podsquad #4",
+          "url": "https://www.youtube.com/watch?v=ZYPvYyELDPg"
+        },
+        {
+          "titulo": "O Ninja - HUD DE 3 DEDOS MELHORA 100% A MOVIMENTAÇÃO E CAPA NO FREE FIRE!?",
+          "url": "https://www.youtube.com/watch?v=FgUDrmBrj0Y"
+        },
+        {
+          "titulo": "LevelUp 007 - AMASSEI NO X1 DOS CRIAS SÓ FOI CAPA E GELO RÁPIDO !!! - FREE FIRE",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "LevelUp 007 - IMPRESSIONEI OS ALEATÓRIOS COM ESSA JOGADA! FREE FIRE",
+          "url": "https://www.youtube.com/watch?v=XMjCV8_xV1M"
+        }
+      ]
+    },
+    {
+      "titulo": "Musica",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Numb (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers - Californication [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk"
+        },
+        {
+          "titulo": "Metallica: Enter Sandman (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+        },
+        {
+          "titulo": "Charlie Brown Jr. - Meu Novo Mundo *OFICIAL HD*",
+          "url": "https://www.youtube.com/watch?v=jp288zfsNTI"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Rangus",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "COMO FAZER COOKIES DE OREO | Ana Maria Brogui",
+          "url": "https://www.youtube.com/watch?v=IZc7t9HnSEk"
+        },
+        {
+          "titulo": "PEDI BURGER E PORÇÃO DE TORRESMO DE ACOMPANHAMENTO | Provando Delivery's",
+          "url": "https://www.youtube.com/watch?v=dvFjSbO_BP8"
+        },
+        {
+          "titulo": "DESAFIO BURGUESA - MARQUINHA PERFEITA #FiqueEmCasa e Aprenda #Comigo",
+          "url": "https://www.youtube.com/watch?v=9YEknt5Taco"
+        },
+        {
+          "titulo": "ESPECIAL DIA DOS PAIS C/ TATI BASSI NO TEMPLO DA CARNE MARCOS BASSI",
+          "url": "https://www.youtube.com/watch?v=FXKKAaAXw0s"
+        },
+        {
+          "titulo": "Picanha na churrasqueira ELÉTRICA! | Netão! Bom Beef #80",
+          "url": "https://www.youtube.com/watch?v=m5ywqLd1rUQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Humor",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "THIAGO VENTURA - TIGAS E OS 300 DE ESPARTA l Legendado",
+          "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
+        },
+        {
+          "titulo": "THIAGO VENTURA - MOTEL",
+          "url": "https://www.youtube.com/watch?v=-C_3DO4UCzM"
+        },
+        {
+          "titulo": "THIAGO VENTURA - MEDINA, BORRACHINHA E A POSE DE QUEBRADA",
+          "url": "https://www.youtube.com/watch?v=pFSBudVa34w"
+        },
+        {
+          "titulo": "AFONSO PADILHA - COMO CONTAR QUE SEU AMIGO FEDE",
+          "url": "https://www.youtube.com/watch?v=qzTnOIVWe-U"
+        },
+        {
+          "titulo": "AFONSO PADILHA - ESPALHANDO A PALAVRA - TRAILER",
+          "url": "https://www.youtube.com/watch?v=ro_Pow00m10"
+        }
+      ]
+    }
+  ]
+}
